@@ -39,7 +39,7 @@ When executed, the script performs the following actions:
 
 ## License
 
-This project is licensed under the [Creative Commons Attribution-NonCommercial (CC BY-NC) License](LICENSE).
+This project is licensed under the [GNU GENERAL PUBLIC LICENSE](LICENSE).
 
 ## Disclaimer
 
