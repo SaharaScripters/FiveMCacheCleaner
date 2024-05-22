@@ -1,3 +1,7 @@
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/saharascripters)
+
+<a href="https://discord.gg/kQxzuyqnkR"><img src="https://discordapp.com/api/guilds/882172298059190282/widget.png?style=banner2" alt="Discord Server"></a>
+
 # FiveM Cache Cleaner
 
 ## Overview
