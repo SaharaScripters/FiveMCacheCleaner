@@ -52,3 +52,7 @@ This script is provided as-is and without warranty. While it has been tested, us
 ## Contribution
 
 Contributions to improve this script are welcome. If you have suggestions or enhancements, feel free to open an issue or submit a pull request.
+
+## Need Help?
+
+[![Need Help?]([https://i.imgur.com/fqKYWeV.png](https://cdn.discordapp.com/attachments/911806162213687357/1252070877970038794/DiscordInviteBanner.png))](https://discord.gg/kQxzuyqnkR)
